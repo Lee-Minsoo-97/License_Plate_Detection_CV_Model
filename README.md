@@ -1,5 +1,3 @@
-# License_Plate_Detection_CV_Model
-
 
 # Car License Plate Recognition Project
 
